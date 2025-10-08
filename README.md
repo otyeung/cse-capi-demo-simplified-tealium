@@ -2,6 +2,10 @@
 
 A responsive web application that demonstrates LinkedIn Conversion API (CAPI) integration with Tealium. This application provides a form interface for collecting user data and showcasing LinkedIn's CAPI functionality.
 
+## Demo
+
+🚀 **Live Demo**: [https://cse-capi-demo-simplified-tealium.vercel.app/](https://cse-capi-demo-simplified-tealium.vercel.app/)
+
 ## Features
 
 - Mobile responsive design that works on all device sizes
