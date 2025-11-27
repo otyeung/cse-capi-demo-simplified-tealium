@@ -130,7 +130,7 @@ const ContactForm: React.FC = () => {
     <>
       <div className='App'>
         <form className='centered-form' onSubmit={handleSubmit} id='capiForm'>
-          <h1 className='form-title'>LinkedIn Online CAPI Demo with Adobe</h1>
+          <h1 className='form-title'>LinkedIn Online CAPI Demo with Tealium</h1>
 
           <div className='form-section'>
             <label>
